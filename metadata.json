@@ -1,0 +1,6 @@
+{
+  "name": "ABNUR Laundry Services",
+  "description": "A professional, modern e-commerce platform for laundry and dry cleaning services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
